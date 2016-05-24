@@ -1,2 +1,2 @@
 # redisAgent
-redis agent or proxy
+agent or proxy for redis
