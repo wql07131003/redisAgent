@@ -1,0 +1,28 @@
+getaddrinfo failed
+event_connect failed
+Open whitelist file
+Error while reading whitelist
+error while assigning map
+_meta_auth_load, uname key existed
+meta_auth_check input validation failed
+meta_auth_check failed
+initStrategy fail service
+conf not exist
+handle destroyed when should not yet be destroyed
+_pool_on_connect_created failed
+pool_fetch_connect, balance gets no server
+pool_fetch_connect, connect full
+pool_release_connect, err
+service strategy is NULL
+Attention,SuperLoadBalance get server err. Use Random
+backend_req_init error
+backend_parse error
+Unauthorized access
+router_acquire_shards failed
+req_timeout_connect_cleanup, state = BACKEND_RETURNED
+req_timeout
+connection error when is processing
+process done with connection error
+nshead magic_num not match
+socket closed. err
+create object failed
